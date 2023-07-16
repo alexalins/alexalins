@@ -8,12 +8,9 @@
 ## 📚 Atualmente estou aprimorando meus conhecimentos em:
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Android](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=android&logoColor=green)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-gray?style=for-the-badge&logo=spring-boot&logoColor=brightgreen)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-F18E33?style=for-the-badge&logo=kotlin&color=brown)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&amp;logo=flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3300FF?style=for-the-badge&logo=ionic&color=white)
 
 <br/>
 
