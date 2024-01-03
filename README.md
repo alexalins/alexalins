@@ -1,4 +1,4 @@
-# 👋 Olá, meu nome é Alexa Lins!
+# 👋 Olá, meu nome é Alexa Lins! #100daysofcode
 <div align="center"><br>
   <img align="center" alt="kobayashi-gif" src="http://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_00.gif">
 </div>
